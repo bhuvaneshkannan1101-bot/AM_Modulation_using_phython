@@ -34,11 +34,11 @@ Program
 ```
 import numpy as np
 import matplotlib.pyplot as plt
-Am = 6
-fm = 474
-Ac = 12
-fc = 4740
-fs = 47400
+Am = 5.9
+fm = 494
+Ac = 11.8
+fc = 4940
+fs = 49400
 t = np.arange(0, 3/fm, 1/fs)
 m = Am * np.cos(2 * np.pi * fm * t)
 c = Ac * np.cos(2 * np.pi * fc * t)
@@ -57,13 +57,13 @@ Output Waveform
 
 
 
-<img width="798" height="590" alt="image" src="https://github.com/user-attachments/assets/7eefeb23-bf37-46e2-b6c9-bcc1a891668c" />
+<img width="795" height="591" alt="Screenshot 2025-10-24 210010" src="https://github.com/user-attachments/assets/e9c6adaf-0a83-43b7-81af-73577ee532b7" />
 
 Tabular Column
 
 
 
-![WhatsApp Image 2025-10-24 at 17 17 17_a8b94635](https://github.com/user-attachments/assets/aa4746e7-4964-4c11-9347-ab1e7ebaf8c3)
+![WhatsApp Image 2025-10-24 at 9 01 57 PM](https://github.com/user-attachments/assets/1b1e5d9d-ce1c-4b51-8360-e79c66ce73bf)
 
 Calculation
 
