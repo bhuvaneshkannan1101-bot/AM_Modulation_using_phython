@@ -57,13 +57,12 @@ Output Waveform
 
 
 
-<img width="795" height="591" alt="Screenshot 2025-10-24 210010" src="https://github.com/user-attachments/assets/e9c6adaf-0a83-43b7-81af-73577ee532b7" />
+
 
 Tabular Column
 
 
 
-![WhatsApp Image 2025-10-24 at 9 01 57 PM](https://github.com/user-attachments/assets/1b1e5d9d-ce1c-4b51-8360-e79c66ce73bf)
 
 Calculation
 
